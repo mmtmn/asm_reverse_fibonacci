@@ -1,5 +1,4 @@
 ; x86_64 Linux NASM syntax - Self-replicating, self-modifying polyglot quine that executes Fibonacci in reverse with bytecode generation
-; Absolute chaos — use at your own risk
 
 section .data
     fmt db "%d ", 0
